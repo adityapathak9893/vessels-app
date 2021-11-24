@@ -1,0 +1,21 @@
+#DefaultInfo {
+  display: flex;
+  padding: 0px 0px 20px 10px;
+  background: yellow;
+  color: red;
+  font-size: 27px;
+}
+
+#DetailedInfo {
+  display: flex;
+  background: red;
+  font-size: 20px;
+}
+
+.inlineDefaultInfo {
+  flex: 1;
+}
+
+.inlineDetailedInfo {
+  flex: 1;
+}

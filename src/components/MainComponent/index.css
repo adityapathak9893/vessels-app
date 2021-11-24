@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+}
+body {
+  height: 98%;
+}
+#root {
+  height: 100%;
+}
+#App {
+  height: 85%;
+}
+
+div {
+  padding: 10px 10px;
+}
+
+#loadingWrapper {
+  height: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  cursor: pointer;
+}
